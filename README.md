@@ -1,5 +1,12 @@
 # ViPER4Android FX
+#####################################################################################################
+THIS RELEASE IS 64 BIT COMPATIBLE!🥳🥳
+thanks to @iscle.
+This repo ported ported from https://github.com/AndroidAudioMods/ViPER4Android/releases/tag/v0.1.0
+
+####################################################################################################
 - Add this in **device.mk**: $(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
+
 
 Add this to your **audio_effects.xml**:
 
